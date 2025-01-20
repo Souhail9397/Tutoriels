@@ -1,5 +1,3 @@
-# Quête-Partage-de-fichiers-Windows
-
 ## :one: Installation du rôle Partage de fichiers  
   
 Dans le cas où le Partage de fichiers n'est pas déjà installé sur le serveur, suivre les étapes suivantes :  
